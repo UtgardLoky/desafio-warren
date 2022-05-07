@@ -1,6 +1,8 @@
 # desafio-warren
 desafio-warren
 
+Participante: Alexandre Ferreira Lopes
+
 Desafio realizado na linguagem Python.
 
 Passos para rodar as aplicações
